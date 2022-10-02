@@ -324,7 +324,7 @@ Sidebar
   display: grid;
   margin-top: 3rem;
   width: 20rem;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   justify-items: center;
 }
 .social-icon {
@@ -891,7 +891,6 @@ Footer
 }
 .footer .social-icons {
   margin-bottom: 1rem;
-  margin-right: -12rem;
 }
 .footer .social-icon {
   color: var(--clr-primary-5);
