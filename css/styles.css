@@ -327,6 +327,13 @@ Sidebar
   grid-template-columns: repeat(2, 1fr);
   justify-items: center;
 }
+.social-icons-cover {
+  display: grid;
+  margin-top: 3rem;
+  width: 20rem;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+}
 .social-icon {
   font-size: 1.5rem;
   color: var(--clr-grey-1);
